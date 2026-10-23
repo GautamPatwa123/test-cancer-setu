@@ -1,0 +1,10 @@
+{
+  "name": "SehatSetu - Healthcare Access Platform",
+  "description": "AI-powered healthcare access, blood availability, ambulance assistance, document translation, and financial support for Tier 2 and Tier 3 cities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
